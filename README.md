@@ -12,5 +12,3 @@ Our task for this project was to develop multiple solar forecasting model to pre
 Clone the directory and it your current directory. Next enter ```Python amaterasu.py``` into the command line.
 
 
-## Sample Output
-
